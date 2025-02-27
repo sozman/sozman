@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Turktelekom Yaay](https://apps.apple.com/tr/app/yaay-sosyal-medya/id1523479939)
+- 🔭 I’m currently working on [Turktelekom Muud]([https://apps.apple.com/tr/app/yaay-sosyal-medya/id1523479939](https://apps.apple.com/tr/app/muud-m%C3%BCzik-dinle-indir/id416551514))
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Unit Tests**
 
 - 💬 Ask me about **Swift**
 
